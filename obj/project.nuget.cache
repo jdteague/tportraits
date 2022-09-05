@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u7rTM09+WO687p/j0o9zeZCRhsc3KfbiRw3YhP7qqtsZWKHfmSN2QT2wmOwtSt3+HtlB9Z+z3/qv/uhFAAUTDw==",
+  "success": true,
+  "projectFilePath": "D:\\Files\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\tportraits\\tportraits.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarod\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

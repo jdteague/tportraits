@@ -1,0 +1,4 @@
+displayName = The NPC Portraits Mod
+author = Gaspacho
+version = 0.1.0.6
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, lib\*, .git\*
